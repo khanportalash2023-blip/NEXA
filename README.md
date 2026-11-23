@@ -1,0 +1,2 @@
+# NEXA
+Personal AI Assistant
